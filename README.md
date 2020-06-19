@@ -11,3 +11,9 @@
 * [第8章：Email List 留住你的銷售機會](08.md)
 * [第9章：Referral與NPS，舊客戶是最好的行銷](09.md)
 * [第10章：Growth Hack 實戰總結](10.md)
+
+本書已於 2016/05/07 由 PCuSER 出版發行。
+
+博客來購書連結：https://www.books.com.tw/products/0010714065
+
+本書榮獲 2016 年台灣金書獎
